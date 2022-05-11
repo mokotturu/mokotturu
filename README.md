@@ -23,6 +23,7 @@ Libraries, Frameworks, Technologies:
 - Express
 - VueJS
 - jQuery
+- NumPy
 - MongoDB
 - Heroku
 
