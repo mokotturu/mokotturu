@@ -21,6 +21,7 @@ Languages:
 Libraries, Frameworks, Technologies:
 - NodeJS
 - Express
+- ReactJS
 - VueJS
 - jQuery
 - NumPy
