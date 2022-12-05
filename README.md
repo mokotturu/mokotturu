@@ -1,6 +1,6 @@
 # Monish Reddy Kotturu
 
-I am a computer science major at the University of Massachusetts Lowell and an undergraduate research assistant in the [PeARL Lab](https://www.pearl-robotics.com/) and [ARL STRONG (UML)](https://www.arl.army.mil/business/collaborative-alliances/current-cras/strong-cra/). My interests include web development, data science, and robotics.
+I am a computer science major at the University of Massachusetts Lowell and an undergraduate research assistant in the [PeARL Lab](https://www.pearl-robotics.com/) and [ARL STRONG (UML)](https://arlstrong-uml.netlify.app/). My interests include web development, data science, and robotics.
 <br><br>
 
 <a href="https://www.linkedin.com/in/monish-reddy-kotturu/" target="_blank">
