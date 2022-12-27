@@ -1,4 +1,4 @@
-# Monish Reddy Kotturu
+![github-readme-banner](https://user-images.githubusercontent.com/51919815/209601242-24eb8f46-6913-4073-bfac-258f03bbc236.svg)
 
 I am a computer science major at the University of Massachusetts Lowell and an undergraduate research assistant in the [PeARL Lab](https://www.pearl-robotics.com/) and [ARL STRONG (UML)](https://arlstrong-uml.netlify.app/). My interests include web development, data science, and robotics.
 <br><br>
