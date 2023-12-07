@@ -10,27 +10,3 @@ I am a computer science major at the University of Massachusetts Lowell and an u
 <a href="mailto:monishkotturu@gmail.com" target="_blank" rel="noreferrer noopener">
   <img src="https://img.shields.io/badge/-Gmail-cb3a2e?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br><br>
-Languages:
-- HTML/CSS/JS
-- Python
-- C/C++
-- Java
-
-Libraries, Frameworks, Technologies:
-- NodeJS
-- Express
-- ReactJS
-- VueJS
-- jQuery
-- MongoDB
-- Heroku
-- NumPy
-- Matplotlib
-- SFML
-
-Tools:
-- Visual Studio Code
-- Git
-- Vim
